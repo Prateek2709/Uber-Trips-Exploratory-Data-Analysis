@@ -1,0 +1,1 @@
+This project analyzes a dataset of Uber trips taken in 2016, exploring key insights such as trip mileage, duration, ride purpose, and popular destinations. Using Python for data analysis and Power BI for interactive dashboards, the project attempts to uncovers travel patterns and provide data-driven insights.
